@@ -9,3 +9,5 @@ Options:
   -h, --hasta    Es el número hasta donde quieres la tabla[number] [default: 10]
   -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
   ```
+  
+  Recuerda ejecutar ```npm install``` para reconstruir los módulos de node y ejecutar la aplicación
